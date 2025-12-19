@@ -10,7 +10,7 @@ int main() {
     
     // Kiểm tra n có hợp lệ không
     if (n < 1) {
-        printf("So n phai lon hon hoac bang 1!\n");
+        printf("So n phai lon hon hoac bang 1!!!!\n");
         return 1;
     }
     
